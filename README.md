@@ -403,7 +403,7 @@ ros2 launch nome_pacchetto nome_file.launch.py
    ros2 pkg create --build-type ament_python nome_pacchetto
    ```
 4. Scrivi il nodo in `nome_pacchetto/`
-5. Aggiungi entry point in `setup.py`
+5. Aggiungi entry point in `setup.py` e dipendenze in `package.xml` 
 6. Compila:
    ```bash
    colcon build --symlink-install
