@@ -390,7 +390,7 @@ ros2 launch nome_pacchetto nome_file.launch.py
 
 ##  Riepilogo
 
-1. Sorgente ROS 2, da non fare se aggiunto con `echo` al `.bash`:
+1. Sorgente ROS 2, da non fare se aggiunto con `echo` al `.bashrc`:
    ```bash
    source /opt/ros/humble/setup.bash
    ```
