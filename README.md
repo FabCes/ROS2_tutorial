@@ -112,7 +112,7 @@ data: Hello World: 4
 
 ---
 
-### ℹ Ottieni informazioni su un topic:
+### Ottieni informazioni su un topic:
 
 ```bash
 ros2 topic info /chatter
