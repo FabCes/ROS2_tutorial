@@ -297,13 +297,6 @@ Dopo ogni `colcon build`, ricarica l'ambiente:
 ```bash
 . install/setup.bash
 ```
-
-Puoi anche automatizzarlo nel tuo `.bashrc`:
-
-```bash
-echo "source ~/ros2_ws/install/setup.bash" >> ~/.bashrc
-```
-
 ---
 
 ##  Esecuzione dei nodi
